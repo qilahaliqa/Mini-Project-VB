@@ -1,0 +1,15 @@
+Line 15: Class MSDataGridLib.DataGrid of control dbgDelete was not a loaded control class.
+Line 16: The property name Bindings in dbgDelete is invalid.
+Line 22: The property name _ExtentX in dbgDelete is invalid.
+Line 23: The property name _ExtentY in dbgDelete is invalid.
+Line 24: The property name _Version in dbgDelete is invalid.
+Line 26: The property name HeadLines in dbgDelete is invalid.
+Line 27: The property name RowHeight in dbgDelete is invalid.
+Line 28: The property name AllowAddNew in dbgDelete is invalid.
+Line 29: The property name AllowDelete in dbgDelete is invalid.
+Line 38: The property name HeadFont in dbgDelete is invalid.
+Line 48: The property name ColumnCount in dbgDelete is invalid.
+Line 61: The property name Column00 in dbgDelete is invalid.
+Line 74: The property name Column01 in dbgDelete is invalid.
+Line 75: The property name SplitCount in dbgDelete is invalid.
+Line 81: The property name Split0 in dbgDelete is invalid.

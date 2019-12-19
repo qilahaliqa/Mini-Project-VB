@@ -1,0 +1,10 @@
+Line 299: Class MSComDlg.CommonDialog of control dlgfile was not a loaded control class.
+Line 367: Class MSComCtl2.DTPicker of control DTP1 was not a loaded control class.
+Line 302: The property name _ExtentX in dlgfile is invalid.
+Line 303: The property name _ExtentY in dlgfile is invalid.
+Line 304: The property name _Version in dlgfile is invalid.
+Line 373: The property name _ExtentX in DTP1 is invalid.
+Line 374: The property name _ExtentY in DTP1 is invalid.
+Line 375: The property name _Version in DTP1 is invalid.
+Line 376: The property name Format in DTP1 is invalid.
+Line 377: The property name CurrentDate in DTP1 is invalid.

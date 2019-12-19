@@ -1,0 +1,16 @@
+Line 16: Class MSDataGridLib.DataGrid of control dbgSearch was not a loaded control class.
+Line 17: The property name Bindings in dbgSearch is invalid.
+Line 23: The property name _ExtentX in dbgSearch is invalid.
+Line 24: The property name _ExtentY in dbgSearch is invalid.
+Line 25: The property name _Version in dbgSearch is invalid.
+Line 26: The property name AllowUpdate in dbgSearch is invalid.
+Line 28: The property name HeadLines in dbgSearch is invalid.
+Line 29: The property name RowHeight in dbgSearch is invalid.
+Line 30: The property name AllowAddNew in dbgSearch is invalid.
+Line 31: The property name AllowDelete in dbgSearch is invalid.
+Line 40: The property name HeadFont in dbgSearch is invalid.
+Line 50: The property name ColumnCount in dbgSearch is invalid.
+Line 63: The property name Column00 in dbgSearch is invalid.
+Line 76: The property name Column01 in dbgSearch is invalid.
+Line 77: The property name SplitCount in dbgSearch is invalid.
+Line 83: The property name Split0 in dbgSearch is invalid.

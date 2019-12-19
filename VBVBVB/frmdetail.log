@@ -1,0 +1,23 @@
+Line 13: Class MSComctlLib.ListView of control lv was not a loaded control class.
+Line 19: The property name _ExtentX in lv is invalid.
+Line 20: The property name _ExtentY in lv is invalid.
+Line 21: The property name View in lv is invalid.
+Line 22: The property name LabelEdit in lv is invalid.
+Line 23: The property name LabelWrap in lv is invalid.
+Line 24: The property name HideSelection in lv is invalid.
+Line 25: The property name FullRowSelect in lv is invalid.
+Line 26: The property name GridLines in lv is invalid.
+Line 27: The property name _Version in lv is invalid.
+Line 32: The property name NumItems in lv is invalid.
+Line 36: The property name ColumnHeader(1) in lv is invalid.
+Line 41: The property name ColumnHeader(2) in lv is invalid.
+Line 46: The property name ColumnHeader(3) in lv is invalid.
+Line 51: The property name ColumnHeader(4) in lv is invalid.
+Line 56: The property name ColumnHeader(5) in lv is invalid.
+Line 61: The property name ColumnHeader(6) in lv is invalid.
+Line 66: The property name ColumnHeader(7) in lv is invalid.
+Line 71: The property name ColumnHeader(8) in lv is invalid.
+Line 76: The property name ColumnHeader(9) in lv is invalid.
+Line 81: The property name ColumnHeader(10) in lv is invalid.
+Line 86: The property name ColumnHeader(11) in lv is invalid.
+Line 90: The property name ColumnHeader(12) in lv is invalid.
